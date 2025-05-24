@@ -42,7 +42,7 @@
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
 		"cross-env": "^7.0.3",
 		"luxon": "^3.6.1",
-		"markdown-it-livecodes": "^0.2.3",
+		"markdown-it-livecodes": "0.4.0",
 		"prismjs": "^1.30.0",
 		"zod": "^3.24.4",
 		"zod-validation-error": "^3.4.1"

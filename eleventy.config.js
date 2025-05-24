@@ -16,7 +16,7 @@ export default async function (eleventyConfig) {
 	// markdown-to-livecodes
 	eleventyConfig.amendLibrary("md", (mdLib) =>
 		mdLib.use(markdownItLivecodes, {
-			appUrl: "https://dev.livecodes.io",
+			/* options */
 		})
 	);
 
